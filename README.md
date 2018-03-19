@@ -1,3 +1,18 @@
+# Palette Generator
+
+This is a little hacky app to generate color palettes for Tachyons.
+
+TODO:
+
+- Add step param 
+- Add color mode param
+- Add option for hue definitions
+- Output options
+  - sass, css, vars, json, js
+- Auto-trim first step in scale array
+
+
+
 # Elements
 
 Prototyping kit.
